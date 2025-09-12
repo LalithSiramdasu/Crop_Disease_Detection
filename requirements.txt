@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+keras
+numpy
+opencv-python
+pandas
+matplotlib
+scikit-learn
+gdown  # only if you plan to download model at runtime
